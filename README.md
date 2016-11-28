@@ -1,0 +1,1 @@
+This repository contains a collection of scripts and pipelines used for the _Nicotiana attenuata_ genome project to complement the manuscript: **Wild tobacco genomes reveal the evolution of prolific nicotine production**
