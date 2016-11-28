@@ -1,0 +1,35 @@
+####################################################################################################
+PhyML
+
+This software can be downloaded here: http://www.atgc-montpellier.fr/phyml/binaries.php
+Or under this github link: https://github.com/stephaneguindon/phyml
+
+
+####################################################################################################
+translatorx_vLocal.pl
+
+Script can be downloaded here: http://pc16141.mncn.csic.es/cgi-bin/translatorx_vLocal.pl
+
+####################################################################################################
+trimal
+
+Install software from here: http://trimal.cgenomics.org/
+
+####################################################################################################
+newick_utils
+
+Homepage: http://cegg.unige.ch/newick_utils
+Install software from github: https://github.com/tjunier/newick_utils
+
+####################################################################################################
+jmodeltest2
+
+Install latest version from: https://github.com/ddarriba/jmodeltest2/releases
+
+Tested with version: 2.1.10
+
+####################################################################################################
+Notung
+
+Install latest version from: http://www.cs.cmu.edu/~durand/Notung/index.html
+Tested with version: 2.6
